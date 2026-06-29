@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether a loan applicant is likely to default, built with Python and deployed using Streamlit.
 
-🔗 **Live App**: [Click here to try it](https://credit-risk-predictor-u59h8ymqgrlsyb2dwbuauk.streamlit.app/)
+
 
 ---
 
